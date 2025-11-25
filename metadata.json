@@ -1,5 +1,0 @@
-{
-  "name": "Temp Mail Inbox",
-  "description": "A temporary email application that generates disposable email addresses and displays incoming emails in real-time. It uses AI to generate realistic sample emails.",
-  "requestFramePermissions": []
-}
